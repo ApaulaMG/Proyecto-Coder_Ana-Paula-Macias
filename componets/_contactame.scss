@@ -1,0 +1,26 @@
+.contacto {
+    text-align: center;
+
+    &__titulo {
+    
+        
+        text-align: center;
+        color: $colorPrimary;
+        font-size: $fontLarge;
+        padding-bottom: 1rem;
+      }
+
+
+    &__form {
+    
+        
+        text-align: center;
+        color: $colorContrast;
+        font-size: $fontMedium;
+        padding-bottom: 2rem;
+        margin: auto 3rem;
+      }
+
+  
+   
+  }
